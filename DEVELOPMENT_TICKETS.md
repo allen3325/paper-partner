@@ -516,10 +516,10 @@
 - [ ] 設定環境變數 (VITE_API_BASE_URL)
 
 **Acceptance Criteria:**
-- [ ] React app 可以正常啟動
-- [ ] TypeScript 編譯正常
-- [ ] ESLint 和 Prettier 正常運作
-- [ ] 可以讀取環境變數
+- [x] React app 可以正常啟動
+- [x] TypeScript 編譯正常
+- [x] ESLint 和 Prettier 正常運作
+- [x] 可以讀取環境變數
 
 **Dependencies:** None
 
